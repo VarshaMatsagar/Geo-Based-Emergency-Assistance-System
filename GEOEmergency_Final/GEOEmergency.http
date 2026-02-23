@@ -1,0 +1,6 @@
+@GEOEmergency_HostAddress = http://localhost:5011
+
+GET {{GEOEmergency_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
